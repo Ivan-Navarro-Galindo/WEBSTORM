@@ -1,10 +1,10 @@
-const streamer = {
-    nom: "Ivan",
-    canal: "Lachuga",
-    subscriptors: 20
-};
+const llistaDeVideojocs = ["Minecraft", "FIFA", "Tetris"];
 
-console.log(streamer);
-console.log(streamer.nom);
-console.log(streamer.canal);
-console.log(streamer.subscriptors);
+console.log(llistaDeVideojocs);
+console.log(llistaDeVideojocs[0]);
+console.log(llistaDeVideojocs[1]);
+console.log(llistaDeVideojocs[2]);
+
+llistaDeVideojocs[1] ="Mario Kart";
+
+console.log(llistaDeVideojocs);
