@@ -1,0 +1,187 @@
+{
+  "animes" : [
+    {
+      "codi": 1,
+      "nom": "JOJO'S",
+      "genero": "shounen",
+      "AñoEmisio": 2012,
+      "Episidis": 170,
+      "descripcio": "Tracta de un llinatge que se enfrenta al seu archienemic Dio Brando",
+      "personatges": [
+        {
+          "nom": "Jonathan",
+          "edad": 22,
+          "descripcio": "Protagonista de la primera part del anime"
+        },
+        {
+          "nom": "Dio Brando",
+          "edad": "+100",
+          "descripcio": "Antagonista principal del anime, germanastre de Jonathan"
+        },
+        {
+          "nom": "Erina Pendelton",
+          "edad": 19,
+          "descripcio": "Interes amoros de Jonathan Joestar"
+        },
+        {
+          "nom": "Robert E.O Speedwaon",
+          "edad": 25,
+          "descripcio": "Millor amic del protagonista"
+        },
+        {
+          "nom": "W . A. Zeppeli",
+          "edad": 50,
+          "descripcio": "Mentor del protagonista Jonathan Joestar"
+        }
+      ]
+    },
+    {
+      "codi": 2,
+      "nom": "Jujutsu Kaisen",
+      "genere": "shounen",
+      "AñoEmision": 2020,
+      "Episodis": 47,
+      "descripcio": "Tracta de un estudiant amb una forçá fisica sobrehumana que se uneix a una organitzacio de embruixedors per combatir amb sers malignes",
+      "personatges": [
+        {
+          "nom": "Yuji Itadori",
+          "edad": 15,
+          "descripcio": "Personatge principal del anime, es un xic de secundaria amb molta força fisica"
+        },
+        {
+          "nom": "Megumi Fushiguro",
+          "edad": 15,
+          "descripcio": "Millor amic del protagonista, pertany a un dels clans mes famosos de bruixeria"
+        },
+        {
+          "nom": "Nobara Kugisaki",
+          "edad": 16,
+          "descripcio": "Es la xica del grup, millor amiga de Itadori y tambe pertany a la escola de bruixeria"
+        },
+        {
+          "nom": "Satoru Gojo",
+          "edad": 28,
+          "descripcio": "Mentor del grup i profesor de l'escola de bruixeria"
+        },
+        {
+          "nom": "Sukuna",
+          "edad": "+1000",
+          "descripcio": "Antagonista del anime, es un ser maligne de fa molts anys"
+        }
+      ]
+    },
+    {
+      "codi": 3,
+      "nom": "Kimetsu no Yaiba",
+      "genere": "Shounen",
+      "AñoEmisio": 2019,
+      "Episodis": 63,
+      "descripcio": "Tracta de exterminar a tots els dimonis per a que la humanitat pugui viure agustisim",
+      "personatges": [
+        {
+          "nom": "Tanjiro Kamado",
+          "rol": "protagonista",
+          "edad": 15,
+          "descripcio": "Protagonista amb molta determinacio"
+        },
+        {
+          "nom": "Nezuko Kamado",
+          "rol": "germana del protagonista",
+          "edad": 14,
+          "descripcio": "Germana de Tanjiro, se convirteix en demoni pero segeix sent bona, se uneix als exterminadors de dimonis junt al seu germá"
+        },
+        {
+          "nom": "Inosuke",
+          "rol": "Amigo del protagonista",
+          "edad": 15,
+          "descripcio": "Se creu un porc literalment"
+        },
+        {
+          "nom": "Muzan",
+          "rol": "Antagonista",
+          "edad": 1000,
+          "descripcio": "Antagonista que busca la supremacia dels dimonis"
+        }
+      ]
+    },
+    {
+      "codi": 4,
+      "titulo": "Naruto",
+      "genero": "shounen",
+      "AñoEmision": 2002,
+      "Episodis": "700",
+      "descripcio": "Tracta de un ninja que te dins un dimoni i vol ser el lider de la aldea",
+      "personatges": [
+        {
+          "nom": "Naruto",
+          "rol": "Protagonista",
+          "edad": 16,
+          "descripcio": "Protagonista del amime"
+        },
+        {
+          "nom": "Sakura",
+          "rol": "Amiga del protagonista",
+          "edad": 16,
+          "descripcio": "Inutil"
+        },
+        {
+          "nom": "Sasuke",
+          "rol": "Amic del protagonista",
+          "edad": 16,
+          "descripcio": "Emo"
+        },
+        {
+          "nom": "Kakashi",
+          "rol": "Mentor del grup de amics",
+          "edad": 29,
+          "descripcio": "El gojo de Naruto"
+        },
+        {
+          "nom": "Madara",
+          "rol": "Antagonista",
+          "edad": 90,
+          "descripcio": "El malo maloso que no es tant malo"
+        }
+      ]
+    },
+    {
+      "codi": 5,
+      "titulo": "Vinland Saga",
+      "genero": "Seinen",
+      "AñoEmision": 2019,
+      "Episodios": 48,
+      "personatges": [
+        {
+          "nom": "Thorfinn",
+          "rol": "Protagonista",
+          "edad": 25,
+          "descripcio": "Pasa de ser una maquina de matar a ser un tip chill de cullons"
+        },
+        {
+          "nom": "Thorss",
+          "rol": "Pare del protagonista",
+          "edad": 39,
+          "descripcio": "El van matar quant Thorfinn nomes tenia 8 anys"
+        },
+        {
+          "nom": "Einar",
+          "rol": "Amic del protagonista",
+          "edad": 27,
+          "descripcio": "Un granjer que varen matar a tota la seua familia i acaba de esclau junt a Thorfinn"
+        },
+        {
+          "nom": "Askeladd",
+          "rol": "Antagonista",
+          "edad": 44,
+          "descripcio": "Antagonista de la primera temporarda, es el que va matar a Thorss"
+        },
+        {
+          "nom": "Canute",
+          "rol": "Antagonista/Amic de Thorfinn",
+          "edad": 23,
+          "descripcio": "Rey de Dinamarca i de Inglaterra, en la primera temporada era chill, en la segona es un cabron"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE animes SYSTEM "ProjecteT1-P1-ING.dtd">
+
+
+<animes>
+    <anime>
+        <ID id="a1">1</ID>
+        <Titulo>JOJO'S</Titulo>
+        <Genero>Shounen</Genero>
+        <AñoEmision>2012</AñoEmision>
+        <Episodios>170</Episodios>
+        <Imagen>imagenes/JoJo's_Bizarre_Adventure_logo.png</Imagen>
+        <Personajes>
+            <Personaje>
+                <ID referencia="a1">1</ID>
+                <Nombre>Jonathan Joestar</Nombre>
+                <Rol>Protagonista</Rol>
+                <Edad>22</Edad>
+                <Imagen>imagenes/JonatahanJoestarAraki.png</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a1">2</ID>
+                <Nombre>Dio Brando</Nombre>
+                <Rol>Antagonista</Rol>
+                <Edad>+100</Edad>
+                <Imagen>imagenes/Dio.webp</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a1">3</ID>
+                <Nombre>Robert E.O Speedagon</Nombre>
+                <Rol>Amigo del protagonista</Rol>
+                <Edad>25</Edad>
+                <Imagen>imagenes/9627mirtpec91.jpg</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a1">4</ID>
+                <Nombre>Erina</Nombre>
+                <Rol>Novia del protagonista</Rol>
+                <Edad>19</Edad>
+                <Imagen>imagenes/Erina_Anime.webp</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a1">5</ID>
+                <Nombre>Will A. Zepelli</Nombre>
+                <Rol>Mentor</Rol>
+                <Edad>50</Edad>
+                <Imagen>imagenes/William_Zeppeli_anime.webp</Imagen>
+            </Personaje>
+        </Personajes>
+    </anime>
+    <anime>
+        <ID id="a2">2</ID>
+        <Titulo>Jujutsu Kaisen</Titulo>
+        <Genero>Shounen</Genero>
+        <AñoEmision>2020</AñoEmision>
+        <Episodios>47</Episodios>
+        <Personajes>
+            <Personaje>
+                <ID referencia="a2">1</ID>
+                <Nombre>Yuji Itadori</Nombre>
+                <Rol>Protagonista</Rol>
+                <Edad>15</Edad>
+                <Imagen>imagenes/Yuji-Itadori1.webp</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a2">2</ID>
+                <Nombre>Megumi Fushiguro</Nombre>
+                <Edad>15</Edad>
+                <Rol>Amigo del protagonista</Rol>
+                <Imagen>imagenes/74313c546f989776ec6e3d3c093f0fb6.jpg</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a2">3</ID>
+                <Nombre>Nobara Kugisaki</Nombre>
+                <Edad>16</Edad>
+                <Rol>Amiga del protagonista</Rol>
+                <Imagen>imagenes/ba5a7064b4b1f9b260df25901008e21c.jpg</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a2">4</ID>
+                <Nombre>Satoru Gojo</Nombre>
+                <Rol>Mentor</Rol>
+                <Edad>28</Edad>
+                <Imagen>imagenes/satoru-gojo.1702754043.7758.jpg</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a2">5</ID>
+                <Nombre>Sukuna</Nombre>
+                <Rol>Antagonista</Rol>
+                <Edad>+1000</Edad>
+                <Imagen>imagenes/Sukuna_-_Anime.webp</Imagen>
+            </Personaje>
+        </Personajes>
+    </anime>
+    <anime>
+        <ID id="a3">3</ID>
+        <Titulo>Kimetsu no Yaiba</Titulo>
+        <Genero>Shounen</Genero>
+        <AñoEmision>2019</AñoEmision>
+        <Episodios>63</Episodios>
+        <Imagen>imagenes/Kimetsu_no_Yaiba.webp</Imagen>
+        <Personajes>
+            <Personaje>
+                <ID referencia="a3">1</ID>
+                <Nombre>Tanjiro Kamado</Nombre>
+                <Rol>Protagonista</Rol>
+                <Edad>15</Edad>
+                <Imagen>imagenes/tanjiro-kamado-generally-speaking-are-you-a-calm-reasonable-v0-d8e7h2pi8exc1.webp</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a3">2</ID>
+                <Nombre>Nezuko Kamado</Nombre>
+                <Rol>Hermana del protagonista</Rol>
+                <Edad>14</Edad>
+                <Imagen>imagenes/nezuko-kamado-demon-slayer.jpg</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a3">3</ID>
+                <Nombre>Zenitsu</Nombre>
+                <Rol>Amigo del protagonista</Rol>
+                <Edad>15</Edad>
+                <Imagen>imagenes/zenitsu-2.jpg</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a3">4</ID>
+                <Nombre>Inosuke</Nombre>
+                <Rol>Amigo del protagonista</Rol>
+                <Edad>15</Edad>
+                <Imagen>imagenes/inosuke-hashibira-demon-slayer-vs-arataki-itto-genshin-v0-t4q1wave4kue1.webp</Imagen>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a3">5</ID>
+                <Nombre>Muzan</Nombre>
+                <Rol>Antagonista</Rol>
+                <Edad>1000</Edad>
+                <Imagen>imagenes/a22ade1722acce9fa2e5e57bc38d91a9.jpg</Imagen>
+            </Personaje>
+        </Personajes>
+    </anime>
+    <anime>
+        <ID id="a4">4</ID>
+        <Titulo>Naruto</Titulo>
+        <Genero>Shounen</Genero>
+        <AñoEmision>2002</AñoEmision>
+        <Episodios>700</Episodios>
+        <Personajes>
+            <Personaje>
+                <ID referencia="a4">1</ID>
+                <Nombre>Naruto</Nombre>
+                <Rol>Protagonista</Rol>
+                <Edad>16</Edad>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a4">2</ID>
+                <Nombre>Sasuke</Nombre>
+                <Rol>Amigo del protagonista</Rol>
+                <Edad>16</Edad>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a4">3</ID>
+                <Nombre>Sakura</Nombre>
+                <Rol>Amiga del protagonista</Rol>
+                <Edad>16</Edad>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a4">4</ID>
+                <Nombre>Kakashi</Nombre>
+                <Rol>Mentor</Rol>
+                <Edad>29</Edad>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a4">5</ID>
+                <Nombre>Madara</Nombre>
+                <Rol>Antagonista</Rol>
+                <Edad>90</Edad>
+            </Personaje>
+        </Personajes>
+    </anime>
+    <anime>
+        <ID id="a5">5</ID>
+        <Titulo>Vinland Saga</Titulo>
+        <Genero>Seinen</Genero>
+        <AñoEmision>2019</AñoEmision>
+        <Episodios>48</Episodios>
+        <Personajes>
+            <Personaje>
+                <ID referencia="a5">1</ID>
+                <Nombre>Thorfinn</Nombre>
+                <Rol>Protagonista</Rol>
+                <Edad>25</Edad>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a5">2</ID>
+                <Nombre>Thorss</Nombre>
+                <Rol>Padre del protagonista</Rol>
+                <Edad>39</Edad>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a5">3</ID>
+                <Nombre>Einar</Nombre>
+                <Edad>27</Edad>
+                <Rol>Amigo del protagonista</Rol>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a5">4</ID>
+                <Nombre>Askeladd</Nombre>
+                <Rol>Antagonista</Rol>
+                <Edad>44</Edad>
+            </Personaje>
+            <Personaje>
+                <ID referencia="a5">5</ID>
+                <Nombre>Canute</Nombre>
+                <Rol>Antagonista/Amigo del protagonista</Rol>
+                <Edad>23</Edad>
+            </Personaje>
+        </Personajes>
+    </anime>
+
+</animes>

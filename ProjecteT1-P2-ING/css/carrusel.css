@@ -1,0 +1,40 @@
+.a1 {
+    text-align: center;
+    justify-content: center;
+}
+.carousel{
+    margin: 120px;
+}
+.maki {
+    color: seagreen;
+}
+.Polnareff {
+    color: white;
+    background-color: black;
+}
+.Tomioka {
+    color: #7a0404;
+}
+.Jiraya {
+    color: #cd4815;
+}
+.Yelva {
+    color: goldenrod;
+}
+img {
+    animation: polnareff 1s infinite;
+
+}
+body {
+    background-color: black;
+}
+
+
+@keyframes polnareff {
+    from {
+        rotation: 0deg;
+}
+    to {
+        rotation: 360deg;
+    }
+}

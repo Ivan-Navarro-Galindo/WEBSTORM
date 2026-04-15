@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700;900&display=swap');
+
+/*Estilo principal*/
+html,
+body {
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.a1 {
+    text-decoration: none;
+    color: inherit;
+}
+.a2 {
+    text-decoration: none;
+    color: inherit;
+}
+.a3 {
+    text-decoration: none;
+    color: inherit;
+}
+.a4 {
+    text-decoration: none;
+    color: inherit;
+}
+.a5 {
+    text-decoration: none;
+    color: inherit;
+}
+
+h3 {
+    text-decoration: none;
+    font-size: 24px;
+    background-color: darkred;
+    color: #fff;
+    text-align: center;
+}
+h3:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    background-color: #52170b ;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+span {
+    font-size: 18px;
+}
+.img1 {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+.img2 {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+.img3 {
+    height: 30vh;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+.img4 {
+    height: 50%;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+.img5 {
+    height: 50%;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+
+/*carrusel*/
+.carrusel {
+    justify-content: center;
+    text-align: center;
+}
+/*Grid*/
+
+main {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5px;
+    padding: 10px;
+    height: 100vh;
+}
+/*Animes*/
+
+.anime5 {
+    padding-bottom: 20px;
+}
+.anime4 {
+    padding-bottom: 20px;
+}
+
+
+
+
+/*Animaciones*/
+
+.anime1:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.anime2:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+
+}
+.anime3:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+
+}
+.anime4:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+
+}
+.anime5:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+
+}
+/*.anime1::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("imagenes/thumb-1920-755323.jpg") no-repeat center center;
+    background-size: cover;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.anime1:hover::before {
+    opacity: 0.7;
+}*/
+
+
+/*Movil*/
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: 1fr;
+    }
+    .anime1,
+    .anime2,
+    .anime3,
+    .anime4,
+    .anime5,
+     br {
+        grid-column: 1;
+    }
+
+    .anime1 {
+        grid-row: 1;
+    }
+    .anime2 {
+        grid-row: 2;
+    }
+    .anime3 {
+        grid-row: 3;
+    }
+    .anime4 {
+        grid-row: 4;
+    }
+    .anime5 {
+        grid-row: 5;
+    }
+}
+

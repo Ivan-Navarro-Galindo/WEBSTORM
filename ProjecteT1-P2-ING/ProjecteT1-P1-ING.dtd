@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE animes [
+    <!ELEMENT animes (anime+)>
+
+    <!ELEMENT anime (ID, Titulo, Genero, AñoEmision, Episodios+, Personajes, Imagen?)>
+    <!ELEMENT ID (#PCDATA)>
+    <!ATTLIST ID id ID #REQUIRED>
+    <!ELEMENT Titulo (#PCDATA)>
+    <!ELEMENT Genero (#PCDATA)>
+    <!ELEMENT AñoEmision (#PCDATA)>
+    <!ELEMENT Episodios (#PCDATA)>
+        <!ELEMENT Imagen (#PCDATA)>
+    <!ELEMENT Personajes (Personaje+)>
+
+    <!ELEMENT Personaje (ID, Nombre, Rol, Edad, Imagen?)>
+    <!ATTLIST ID referencia IDREF #REQUIRED>
+    <!ELEMENT Nombre (#PCDATA)>
+    <!ELEMENT Rol (#PCDATA)>
+    <!ELEMENT Edad (#PCDATA)>
+    <!ELEMENT Imagen (#PCDATA)>
+]>
+
